@@ -1,0 +1,22 @@
+[Desktop Entry]
+Categories=System;Pacman;ConsoleOnly;
+Comment[en_US]=ADK-Linux Welcome
+Comment=ADK-Linux Welcome
+Exec=/usr/local/bin/adk-welcome-app/adk-welcome.sh
+GenericName[en_US]=adk-linux-welcome
+GenericName=adk-linux-welcome
+Icon=adk
+Keywords=system;process;task;fix
+MimeType=
+Name[en_US]=ADK-Linux Welcome
+Name=ADK-Linux Welcome
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
